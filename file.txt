@@ -1,1 +1,5 @@
-hello les amis 
+<<<<<<< HEAD
+hello from feature1 im file.txt
+=======
+helloo from feature2 im file.txt
+>>>>>>> feature2
